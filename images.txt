@@ -1,11 +1,1 @@
-acryldata/datahub-actions:head
-acryldata/datahub-frontend-react:head
-acryldata/datahub-gms:head
-acryldata/datahub-upgrade:head
-acryldata/datahub-elasticsearch-setup:head
-acryldata/datahub-kafka-setup:head
-acryldata/datahub-mysql-setup:head
-confluentinc/cp-schema-registry:7.4.0
-confluentinc/cp-zookeeper:7.4.0
-elasticsearch:7.10.1
-mysql:8.2
+neo4j:4.4.9-community
