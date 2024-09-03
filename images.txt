@@ -1,1 +1,1 @@
-datasophon/datasophon:1.1.3
+88fantasy/datasophon:1.2.0
