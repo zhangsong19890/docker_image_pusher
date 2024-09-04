@@ -1,1 +1,1 @@
-88fantasy/datasophon:1.2.0
+mysql:8
